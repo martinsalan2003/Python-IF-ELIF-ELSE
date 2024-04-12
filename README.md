@@ -1,2 +1,2 @@
 # Python IF ELIF ELSE
- Atividade realizadas em aula de programação para computadores 
+ Atividades e exemplos de nivel medio realizado em Sala de Aula realizadas em aula de programação para computadores 
