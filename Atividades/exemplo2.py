@@ -28,6 +28,6 @@ elif lds == 5:
     area3 = float(input("Digite o valor da terceira área: "))
     area4 = float(input("Digite o valor da quarta área: "))
     area5 = float(input("Digite o valor da quinta área: "))
-    print("{}, o seu poligno é um Quadrado com as areas {}, {}, {}, {} e {}." .format(nome,area1,area2,area3,area4,area5))
+    print("{}, o seu poligno é um Pentágono com as areas {}, {}, {}, {} e {}." .format(nome,area1,area2,area3,area4,area5))
 else:
  print("Poligno não identificado.")
